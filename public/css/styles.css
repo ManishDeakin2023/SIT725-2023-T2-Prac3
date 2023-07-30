@@ -1,13 +1,14 @@
 .navbar-size {
-    width: 95%;
+    width: 100%;
     margin: 0 auto;
+    background-color: #6527BE;
     }
 .user-image-size {
     height: 56px;
     margin: 4px 0;
     }
 .main-body {
-    background-color: #F28487;
+    background-color: #9681EB;
     color: rgb(24, 24, 24);
     height: calc(200vh - 64px);
     }
